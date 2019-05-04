@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['data_5fobjects_2eh',['data_objects.h',['../data__objects_8h.html',1,'']]],
+  ['dcdc_2eh',['dcdc.h',['../dcdc_8h.html',1,'']]],
+  ['dcdc_5fcontrol',['dcdc_control',['../dcdc_8h.html#ab811972f1b6bab1019eb1acf42616c3c',1,'dcdc.cpp']]],
+  ['dcdc_5fcontrol_5fstate',['dcdc_control_state',['../dcdc_8h.html#ac83b7dbbfff09c12a3763b6fe91dae60',1,'dcdc.h']]],
+  ['dcdc_5finit',['dcdc_init',['../dcdc_8h.html#a2343b9b875df0ef071d4a97c367520df',1,'dcdc.cpp']]],
+  ['dcdc_5foperation_5fmode',['dcdc_operation_mode',['../dcdc_8h.html#a38269df9b2d3926c981b382645e8e894',1,'dcdc.h']]],
+  ['dcdc_5fself_5fdestruction',['dcdc_self_destruction',['../dcdc_8h.html#a3f39fce0eb5edf0999778331e58c18fa',1,'dcdc.cpp']]],
+  ['dcdc_5fstate_5fcc',['DCDC_STATE_CC',['../dcdc_8h.html#ac83b7dbbfff09c12a3763b6fe91dae60a85a8dcac73505dc1455bfc9139af37d1',1,'dcdc.h']]],
+  ['dcdc_5fstate_5fcv',['DCDC_STATE_CV',['../dcdc_8h.html#ac83b7dbbfff09c12a3763b6fe91dae60a8bcc938becb8582aff7ed73cc367b70f',1,'dcdc.h']]],
+  ['dcdc_5fstate_5fderating',['DCDC_STATE_DERATING',['../dcdc_8h.html#ac83b7dbbfff09c12a3763b6fe91dae60a81db2b401ecc668aef5b0edcfb096101',1,'dcdc.h']]],
+  ['dcdc_5fstate_5fmppt',['DCDC_STATE_MPPT',['../dcdc_8h.html#ac83b7dbbfff09c12a3763b6fe91dae60a64bcf38bb12e53f3370312a1f9e14c07',1,'dcdc.h']]],
+  ['dcdc_5fstate_5foff',['DCDC_STATE_OFF',['../dcdc_8h.html#ac83b7dbbfff09c12a3763b6fe91dae60aef968d4f2c1256a79815103de1b96499',1,'dcdc.h']]],
+  ['dcdc_5ft',['dcdc_t',['../structdcdc__t.html',1,'']]],
+  ['detect_5fbattery_5ftemperature',['detect_battery_temperature',['../adc__dma_8h.html#a01d306386a62254b9d0a980911144443',1,'adc_dma.cpp']]],
+  ['dis_5fday_5fwh',['dis_day_Wh',['../structbattery__state__t.html#aa372206e99d9ab62aec4adc08cc18289',1,'battery_state_t']]],
+  ['dis_5ftotal_5fwh',['dis_total_Wh',['../structbattery__state__t.html#a0ffa08f7cf8d5409563df60b9493e282',1,'battery_state_t']]],
+  ['discharge_5ftemp_5fmax',['discharge_temp_max',['../structbattery__conf__t.html#af1d93f6e99a543e9cf4be12540aca7ad',1,'battery_conf_t']]],
+  ['discharge_5ftemp_5fmin',['discharge_temp_min',['../structbattery__conf__t.html#a55179a982869a41839ea20cdd7e1da7e',1,'battery_conf_t']]],
+  ['discharged_5fah',['discharged_Ah',['../structbattery__state__t.html#adf1c4172bbec6539ff20723b7a6ed55f',1,'battery_state_t']]],
+  ['dma_5fsetup',['dma_setup',['../adc__dma_8h.html#ae10c7eef91205f9e3b7e4ffe6eeaffb4',1,'adc_dma.cpp']]],
+  ['droop_5fres_5finput',['droop_res_input',['../structpower__port__t.html#ad751337a244b4e9daae43e2bafdc898e',1,'power_port_t']]],
+  ['droop_5fres_5foutput',['droop_res_output',['../structpower__port__t.html#a7f5f924096bb2e6129f9556e2e8a48bf',1,'power_port_t']]]
+];
